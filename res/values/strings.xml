@@ -1,0 +1,19 @@
+<resources>
+    <!-- Globals -->
+    <string name="app_name">Cvičení</string>
+    <!-- Home -->
+    <string name="main_cv3">cv3</string>
+    <string name="main_cv4">cv4</string>
+    <string name="main_cv5">cv5</string>
+    <string name="main_cv6">cv6</string>
+    <string name="main_cv7">cv7</string>
+
+    <!-- Menu -->
+    <string name="action_settings">Menu</string>
+
+    <!-- Fragments -->
+    <string name="fragment_button_send">Odeslat</string>
+    <string name="title_activity_cv6">Cv6Activity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>
